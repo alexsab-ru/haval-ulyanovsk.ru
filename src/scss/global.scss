@@ -2,9 +2,16 @@
 	display: none !important;
 }
 
+html{
+	font-size: 75%;
+}
+
 body {
 	min-width: 320px;
 	overflow-x: hidden;
+	letter-spacing: normal;
+	text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
 
 ::selection{
