@@ -40,6 +40,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://haval.alexsab.ru',
+	site: 'https://haval-ulyanovsk.ru',
 	base: "/"
 });

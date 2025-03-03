@@ -3,9 +3,9 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
 export const SITE_NAME = 'Тон-Авто';
 // Юр лицо
-export const LEGAL_ENTITY = '';
+export const LEGAL_ENTITY = 'ООО «АвтоДом»';
 // ИНН
-export const LEGAL_INN = '';
+export const LEGAL_INN = '7325074262';
 // Город
 export const LEGAL_CITY = 'г. Ульяновск';
 // где? в Городе
@@ -13,7 +13,7 @@ export const LEGAL_CITY_WHERE = 'Ульяновске';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (8482) 37-96-30';
 // Бренд
 export const BRAND = 'Haval';
 // Конечное время для таймера
@@ -33,7 +33,7 @@ export const LINKS_MENU = [
 	{url: 'models/', name: 'Модели'},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
 	{url: 'special-offers/', name: 'Спецпредложения'},
-	{url: 'news/', name: 'Новости'},
+	// {url: 'news/', name: 'Новости'},
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
 	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},
