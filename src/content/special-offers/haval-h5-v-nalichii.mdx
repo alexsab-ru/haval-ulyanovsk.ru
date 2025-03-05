@@ -1,0 +1,36 @@
+---
+h1: "HAVAL H5 в наличии!"
+title: "HAVAL H5 в наличии"
+caption: "HAVAL H5 в наличии! <br/>от&nbsp;3&nbsp;799&nbsp;000р!"
+breadcrumb: "HAVAL H5 в наличии"
+image: "/img/specials/haval-h5-v-nalichii/thumb.webp"
+description: "HAVAL H5 в наличии. ЭКСКЛЮЗИВНО В УЛЬЯНОВСКЕ - HAVAL PRO. НЕВЕРОЯТНО ОГРОМНЫЙ - длина 5,19м. Бензиновые и Дизельные версии по одной цене!. Зимние шины и Дополнительное оборудование в ПОДАРОК. Ставка от 0,01% до 23,6% без подтверждения дохода"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+**от&nbsp;3&nbsp;799&nbsp;000р!**
+
+<picture>
+	<source media="(min-width: 942px)" srcset="/img/specials/haval-h5-v-nalichii/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/haval-h5-v-nalichii/thumb.webp" />
+	<img src="/img/specials/haval-h5-v-nalichii/banner.webp" class="w-full mb-10" alt="HAVAL H5 в наличии" />
+</picture>
+
+<br/>
+- ЭКСКЛЮЗИВНО В УЛЬЯНОВСКЕ - HAVAL PRO
+- НЕВЕРОЯТНО ОГРОМНЫЙ - длина 5,19м
+- Бензиновые и Дизельные версии по одной цене!
+- Зимние шины и Дополнительное оборудование в ПОДАРОК
+- Ставка от 0,01% до 23,6% без подтверждения дохода
+<br/>
+
+<SpecialSalonsInfo title='Получить предложение' dataTitle='HAVAL H5 в наличии' dataFormName="Получить предложение. HAVAL H5 в наличии" />
