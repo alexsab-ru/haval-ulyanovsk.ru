@@ -226,7 +226,7 @@ document.addEventListener('alpine:init', () => {
 			this.selectedYears.length ? this.addQueryParam("year", this.selectedYears.join(",")) : this.deleteQueryParam('year');
 		},
   
-		toggleFilter(type, value) {
+		toggleFilter(type, value, event) {			
 			const targetArray = this[`selected${type}`];
 			const index = targetArray.indexOf(value);
 
@@ -235,9 +235,43 @@ document.addEventListener('alpine:init', () => {
 			} else {
 				targetArray.push(value);
 			}
-
+			
+			this.updateFilterVisibility();
 			this.filteredCars();
 		},
+		updateFilterVisibility() {
+			const filters = ["brand", "model", "year"];
+			const selectedValues = {
+				 brand: this.selectedBrands || [],
+				 model: this.selectedModels || [],
+				 year: this.selectedYears || []
+			};
+	  
+			filters.forEach((filter, index) => {
+				 const elements = document.querySelectorAll(`[data-filter-type=${filter}]`);
+				 if (!elements.length) return;
+	  
+				 // Определяем родительский фильтр (например, у моделей родитель — бренд)
+				 const parentFilterType = filters[index - 1] || null;
+				 const parentSelectedValues = parentFilterType ? selectedValues[parentFilterType] : [];
+	  
+				 elements.forEach((el) => {
+					  if (!parentFilterType || parentSelectedValues.length === 0) {
+							// Если нет родителя или он не выбран, показываем все
+							el.style.display = 'block';
+							return;
+					  }
+	  
+					  const parentValue = el.dataset[`filter${parentFilterType.charAt(0).toUpperCase() + parentFilterType.slice(1)}`];
+	  
+					  if (!parentValue || parentSelectedValues.includes(parentValue)) {
+							el.style.display = 'block';
+					  } else {
+							el.style.display = 'none';
+					  }
+				 });
+			});
+	  },
   
 		init() {
 			const vm = this;
@@ -316,6 +350,7 @@ document.addEventListener('alpine:init', () => {
 				});
 			}
 
+			this.updateFilterVisibility();
 			this.filteredCars();
 
 			this.firstLoadPage = false;
