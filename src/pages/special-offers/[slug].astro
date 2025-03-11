@@ -1,54 +1,28 @@
 ---
-import type { TDataCollection, TCollection } from '@/types/TCollection';
-import { getCollection, getEntry } from "astro:content";
-import { COLLECTIONS } from '@/const';
+import { type CollectionEntry, getCollection } from 'astro:content';
 import PageLayout from '@/layouts/PageLayout.astro';
-import SeoText from '@/components/Seo/Index.astro';
 
 export async function getStaticPaths() {
-  const paths = [];
+	const posts = await getCollection('special-offers');
 
-  for (const collection of COLLECTIONS) {
-    const entries = await getCollection(collection.name);
-    for (const entry of entries) {
-      paths.push({ 
-        params: { collection: collection.name, slug: entry.slug },
-        props: { title: collection.title }
-      });
-    }
-  }
-
-  return paths;
+	// Проверяем, что массив posts не пустой перед обработкой
+	if (posts && posts.length > 0) {
+		return posts.map((post) => ({
+			params: { slug: post.slug },
+			props: post,
+		}));
+	} else {
+		// Если массив пустой, возвращаем пустой массив путей
+		return [];
+	}
 }
+type Props = CollectionEntry<'special-offers'>;
 
-const { collection, slug } = Astro.params;
-const { title } = Astro.props;
-const entries = await getCollection(collection);
-const entry = entries.find((entry: TCollection) => entry.slug === slug) || {};
-
-if (!entry) {
-  throw new Error(`Запись не найдена: ${slug} в коллекции ${collection}`);
-}
-
-const data: TDataCollection = entry?.data || {};
-
-const breadcrumb = { name: title, href: `/${collection}/` };
-const content = await getEntry(collection, slug);
-let Content = null;
-if (content) {
-  const result = await content.render();
-  Content = result.Content;
-}
+const post = Astro.props;
+const { Content } = await post.render();
+import { breadcrumb } from './index.astro';
 ---
-<PageLayout 
-  {...data} 
-  breadcrumb={[
-    breadcrumb, 
-    { name: data?.breadcrumb, href: Astro.url.pathname }
-  ]} 
-  backLink={true}
->
 
+<PageLayout {...post.data} breadcrumb={[breadcrumb, {name: post.data.breadcrumb, href: Astro.url.pathname}]} backLink={true}>
 	<Content />
-  <SeoText mdx={`${collection}-${slug}`} noPadding />
 </PageLayout>
