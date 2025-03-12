@@ -33,6 +33,9 @@ import CarItem from "@/components/Cars/Item.astro";
 import { getCollection } from "astro:content";
 const cars = await getCollection("cars");
 
+import reviews from '@/data/reviews.json';
+import Reviews from '@/components/Reviews/Index.astro';
+
 ---
 
 <Layout title=`Купить ${BRAND} у официального дилера ${SITE_NAME}` description=`Забронируйте свой автомобиль прямо сейчас у официалоного дилера ${BRAND} в ${LEGAL_CITY_WHERE}! ☎️ ${salonsPhone}`>
@@ -50,11 +53,11 @@ const cars = await getCollection("cars");
 	<Callback bgUrl="/img/test-drive.webp" title="Запишитесь на тест-драйв!" subtitle="Пройдите тест-драйв на интересном маршруте" formName="Секция. Запись на тест-драйв" />
 
 	{cars.length > 0 && (
-		<section class="" id="cars">
+		<section class="bg-gray-100" id="cars">
 			<div class="container">
-				<h2>{`Автомобили ${BRAND} в наличии в ${LEGAL_CITY_WHERE}`}</h2>
+				<h2 class="text-xl sm:text-4xl font-normal mb-8 sm:mb-14">{`Автомобили ${BRAND} в наличии в ${LEGAL_CITY_WHERE}`}</h2>
 	
-				<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5 mt-5 car-list">
+				<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5 mt-20 car-list">
 					{cars.map((car) => (
 						<CarItem car={car} />
 					))}
@@ -63,6 +66,8 @@ const cars = await getCollection("cars");
 			</div>
 		</section>
 	)}
+
+	<Reviews items={reviews} title="Отзывы наших клиентов" />
 
 	<SeoText mdx="index" />
 	<Contacts mapImg="/img/map-bg.webp" title="Наши контакты" />
