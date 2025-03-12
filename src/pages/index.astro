@@ -13,7 +13,7 @@ import Callback from '@/components/Callback.astro';
 import Services from '@/components/Services.astro';
 import Contacts from '@/components/Contacts.astro';
 import Morquee from '@/components/Marquee/Index.astro';
-import models from '@/data/models.json'
+import models from '@/data/models.json';
 import salonsData from '@/data/salons.json';
 const salons = salonsData.filter(salon => !salon.type || salon.type.includes('index'));
 const modelsWithComplectations = models.filter(m => (m?.complectations !== undefined && m?.complectations.length));
@@ -42,12 +42,8 @@ const infoItems = [
 	</section>
 	<Timer endtime=`${YEAR}.${MONTH}.17 23:59:59` title="Утвердите спецусловия только до 17 марта!" subtitle={TIMER.subtitle} btnName="Получить выгоду" class="bg-[url('/img/konkurenty.webp')] bg-cover bg-center bg-fixed text-white" />
 	<LatestPosts collectionName="special-offers" title="Специальные предложения" id="specials" class="bg-gray-100" />
-	<ModelList />
 	<Callback bgUrl="/img/konkurenty.webp" />
-	<Services />
+	{models.length > 0 && models.filter(m => m.show).map(model => ( <Model model={model} /> ))}
 	<SeoText mdx="index" />
-	<Contacts
-		mapImg="/img/map-bg.webp"
-		title="Наши контакты"
-	/>
+	<Contacts mapImg="/img/map-bg.webp" title="Наши контакты" />
 </Layout>
