@@ -36,7 +36,7 @@ const infoItems = [
 	<section>
 		<div class="container">
 			<div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
-				{infoItems.map(item => ( <InfoItem item={item} classes={infoItemClasses} data-title="Получить спецпредложение" data-form_name={`Получить спецпредложение. ${item.title}`} /> ))}
+				{infoItems.map(item => ( <InfoItem item={item} classes={infoItemClasses} data-title="Получить спецпредложение" data-form_name={`Получить спецпредложение. ${item.title.replace(/<[^>]*>/g, '')}`} /> ))}
 			</div>
 		</div>
 	</section>
