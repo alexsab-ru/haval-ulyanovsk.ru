@@ -29,6 +29,10 @@ const infoItems = [
 	{title: "Выгода 10% корпоративным клиентам", icon: "mdi:ticket", url: "#common-modal", iconClasses: "text-[#00c9bf] size-16"},
 ];
 
+import CarItem from "@/components/Cars/Item.astro";
+import { getCollection } from "astro:content";
+const cars = await getCollection("cars");
+
 ---
 
 <Layout title=`Купить ${BRAND} у официального дилера ${SITE_NAME}` description=`Забронируйте свой автомобиль прямо сейчас у официалоного дилера ${BRAND} в ${LEGAL_CITY_WHERE}! ☎️ ${salonsPhone}`>
@@ -44,6 +48,22 @@ const infoItems = [
 	<LatestPosts collectionName="special-offers" title="Специальные предложения" id="specials" class="bg-gray-100" />
 	{models.length > 0 && models.filter(m => m.show).map(model => ( <Model model={model} /> ))}
 	<Callback bgUrl="/img/test-drive.webp" title="Запишитесь на тест-драйв!" subtitle="Пройдите тест-драйв на интересном маршруте" formName="Секция. Запись на тест-драйв" />
+
+	{cars.length > 0 && (
+		<section class="" id="cars">
+			<div class="container">
+				<h2>{`Автомобили ${BRAND} в наличии в ${LEGAL_CITY_WHERE}`}</h2>
+	
+				<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5 mt-5 car-list">
+					{cars.map((car) => (
+						<CarItem car={car} />
+					))}
+				</div>
+	
+			</div>
+		</section>
+	)}
+
 	<SeoText mdx="index" />
 	<Contacts mapImg="/img/map-bg.webp" title="Наши контакты" />
 </Layout>
