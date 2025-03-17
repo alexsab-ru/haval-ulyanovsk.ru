@@ -30,7 +30,7 @@ import modelsData from '@/data/models.json';
 const models = modelsData.filter(model => model.show);
 export const LINKS_MENU = [
 	{url: '#specials', name: 'Спецпредложения'},
-	{url: '#models', name: 'Модели'},
+	// {url: '#models', name: 'Модели'},
 	{url: '#test-drive', name: 'Запись на тест-драйв'},
 	{url: '#cars', name: 'Авто в наличии'},
 	// {url: 'catalog/', name: 'Каталог'},
