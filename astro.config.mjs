@@ -36,7 +36,55 @@ export default defineConfig({
 		react(),
 	],
 	redirects: {
-		'/new/': {
+		'/new': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/jolion?': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/f7?': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/dargo?': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/m6?': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/h9-II': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/h3': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/h5-1': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/f7-II?': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/haval-h5-II?': {
+			status: 301,
+			destination:'/cars/'
+		},
+		'/new/haval/dargo-x': {
 			status: 301,
 			destination:'/cars/'
 		}
