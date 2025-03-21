@@ -35,6 +35,12 @@ export default defineConfig({
 		icon(),
 		react(),
 	],
+	redirects: {
+		'/new/': {
+			status: 301,
+			destination:'/cars/'
+		}
+	},
 	vite: {
 		plugins: [yaml()],
 		css: {
