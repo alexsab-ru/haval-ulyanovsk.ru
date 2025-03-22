@@ -87,6 +87,10 @@ export default defineConfig({
 		'/new/haval/dargo-x': {
 			status: 301,
 			destination:'/cars/'
+		},
+		'/new/haval/great-wall': {
+			status: 301,
+			destination:'/cars/'
 		}
 	},
 	vite: {
