@@ -3,7 +3,7 @@ import Layout from '@/layouts/Layout.astro';
 import Banner from '@/components/Banner/Banner.astro';
 import { getCollection } from 'astro:content';
 import { SITE_NAME, TIMER } from '@/const';
-import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+import { LAST_DAY, MONTH, MONTH_GENITIVE, YEAR } from '@/js/utils/date';
 import PostItem from '@/components/Post/Item.astro';
 import { sortingAndFilteringPosts } from '@/js/utils/sortingAndFilteringPosts';
 import SeoText from '@/components/Seo/Index.astro';
@@ -51,7 +51,7 @@ export const breadcrumb = { name: title, href: `/${collection}/` };
 	)
 	}
 
-	<Timer endtime=`${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00` title="Утвердите спецусловия только до 17 марта!" subtitle={TIMER.subtitle} btnName="Получить выгоду" class="bg-gray-100" />
+	<Timer endtime=`${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00` title={`Утвердите спецусловия только до ${LAST_DAY} ${MONTH_GENITIVE}!`} subtitle={TIMER.subtitle} btnName="Получить выгоду" class="bg-gray-100" />
 
 	<SeoText mdx={'special-offers'} noPadding />
 

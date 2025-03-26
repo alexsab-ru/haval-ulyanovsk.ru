@@ -1,6 +1,6 @@
 ---
 import {SITE_NAME, BRAND, LEGAL_CITY_WHERE, TIMER, MARQUEE} from '@/const.js';
-import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+import { LAST_DAY, MONTH, MONTH_GENITIVE, YEAR } from '@/js/utils/date';
 import Layout from '@/layouts/Layout.astro';
 import Banner from '@/components/Banner/Banner.astro';
 import PageTitle from '@/components/PageTitle/Index.astro';
@@ -47,7 +47,7 @@ import Reviews from '@/components/Reviews/Index.astro';
 			</div>
 		</div>
 	</section>
-	<Timer endtime=`${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00` title="Утвердите спецусловия только до 17 марта!" subtitle={TIMER.subtitle} btnName="Получить выгоду" class="bg-[url('/img/konkurenty.webp')] bg-cover bg-center bg-fixed text-white" />
+	<Timer endtime=`${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+04:00` title={`Утвердите спецусловия только до ${LAST_DAY} ${MONTH_GENITIVE}!`} subtitle={TIMER.subtitle} btnName="Получить выгоду" class="bg-[url('/img/konkurenty.webp')] bg-cover bg-center bg-fixed text-white" />
 	<LatestPosts collectionName="special-offers" title="Специальные предложения" id="specials" class="section bg-gray-100" />
 	{ false && ( <ModelList /> )}
 	{false && models.length > 0 && models.filter(m => m.show).map(model => ( <Model model={model} /> ))}
