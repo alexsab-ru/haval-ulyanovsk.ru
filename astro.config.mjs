@@ -40,27 +40,23 @@ export default defineConfig({
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new': {
-			status: 301,
-			destination:'/cars/'
-		},
 		'/new/haval': {
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new/haval/jolion?': {
+		'/new/haval/jolion': {
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new/haval/f7?': {
+		'/new/haval/f7': {
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new/haval/dargo?': {
+		'/new/haval/dargo': {
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new/haval/m6?': {
+		'/new/haval/m6': {
 			status: 301,
 			destination:'/cars/'
 		},
@@ -76,11 +72,11 @@ export default defineConfig({
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new/haval/f7-II?': {
+		'/new/haval/f7-II': {
 			status: 301,
 			destination:'/cars/'
 		},
-		'/new/haval/haval-h5-II?': {
+		'/new/haval/haval-h5-II': {
 			status: 301,
 			destination:'/cars/'
 		},
