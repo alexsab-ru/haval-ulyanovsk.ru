@@ -13,7 +13,7 @@ export const LEGAL_CITY_WHERE = 'Ульяновске';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Телефон по умолчанию
-export const PHONE = '+7 (8482) 37-96-30';
+export const PHONE = '+7 (842) 250-66-03';
 // Бренд
 export const BRAND = 'Haval';
 // Конечное время для таймера
