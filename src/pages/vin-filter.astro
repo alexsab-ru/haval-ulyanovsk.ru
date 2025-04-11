@@ -1,6 +1,6 @@
 ---
 import Layout from '@/layouts/Layout.astro';
-import CarItem from '@/components/Cars/Item.astro';
+import CarsList from '@/components/Cars/List.astro';
 import { getCollection } from "astro:content";
 import {SITE_NAME, BRAND, LEGAL_CITY_WHERE, TIMER, MARQUEE} from '@/const.js';
 const allCars = await getCollection("cars");
@@ -81,11 +81,7 @@ const cars = allCars.filter(car => {
 		{cars.length > 0 && (
 			<>
 				<h2 class="text-xl sm:text-4xl font-normal mb-8 sm:mb-14">{`Автомобили ${BRAND} по специальным сниженным ценам в ${LEGAL_CITY_WHERE}`}</h2>
-				<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-5 mt-5 car-list">
-					{cars.map((car) => (
-							<CarItem car={car} />
-					))}
-				</div>
+				<CarsList cars={cars} />
 			</>
 		)}
 	</div>
