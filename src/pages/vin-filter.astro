@@ -65,7 +65,10 @@ const vins = [
 	"LGWEF4A58RF739138"
 ];
 
-const cars = allCars.filter(car => vins.includes(car.data.vin));
+const cars = allCars.filter(car => {
+	const carVins = car.data.vin_list.split(',').map(vin => vin.trim());
+	return carVins.some(vin => vins.includes(vin));
+});
 ---
 
 <Layout title='Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!' description='Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!'>
