@@ -14,7 +14,9 @@ export default defineConfig({
 		tailwind({
 			configFile: './tailwind.haval.js'
 		}),
-		sitemap(),
+		sitemap({
+			filter: (page) => !page.endsWith('telegram-bot/')
+		}),
 		robots({
 			policy: [
 				{
