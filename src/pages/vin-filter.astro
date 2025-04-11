@@ -1,0 +1,21 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import CarsList from '@/components/Cars/List.astro';
+import { getCollection } from "astro:content";
+const cars = await getCollection("cars");
+import {SITE_NAME, BRAND, LEGAL_CITY_WHERE, TIMER, MARQUEE} from '@/const.js';
+---
+
+<Layout title='Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!' description='Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!'>
+	<div class="container py-10 space-y-10">
+		<h1 class="text-3xl sm:text-4xl font-bold">Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!</h1>
+		<p>Мы получили от дистрибьютора ограниченную партию автомобилей HAVAL по специальным сниженным ценам. Это не просто выгодное предложение — это уникальный модельный микс с топовыми комплектациями, которые ты не найдёшь в радиусе 1000 км!</p>
+		<p>Haval Dargo, H6, Jolion — в насыщенных версиях, с полным приводом, панорамой, ассистентами и премиальной отделкой. Всё уже в наличии на складе — только лучшие комплектации по отличной цене! Успей выбрать и забронировать свой автомобиль — количество  ограничено.</p>
+		<p>А если расскажешь друзьям или опубликуешь об этом в своих соцсетях, мы подарим дополнительную скидку!</p>
+		
+		{cars.length > 0 && (
+			<h2 class="text-xl sm:text-4xl font-normal mb-8 sm:mb-14">{`Автомобили ${BRAND} по специальным сниженным ценам в ${LEGAL_CITY_WHERE}`}</h2>
+			<CarsList />
+		)}
+	</div>
+</Layout>
