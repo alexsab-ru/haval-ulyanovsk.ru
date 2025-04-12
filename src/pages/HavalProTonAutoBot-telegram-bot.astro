@@ -1,5 +1,9 @@
 ---
-import TelegramBot from '@/layouts/TelegramBot.astro';
+import RedirectPage from '@/layouts/RedirectPage.astro';
 ---
-<TelegramBot goal="HavalPro_telegram_redirect" redirectUrl="https://t.me/HavalProTonAutoBot">
-</TelegramBot>
+<RedirectPage
+    goal="HavalPro_telegram_redirect"
+    redirectUrl="https://t.me/HavalProTonAutoBot"
+    pageText="Вы будете перенаправлены в Телеграм<br/>через 3 секунды..."
+>
+</RedirectPage>
