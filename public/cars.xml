@@ -867,7 +867,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>407755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -1215,7 +1215,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>407755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -1448,7 +1448,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>407755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -1508,7 +1508,7 @@
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>407755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -1566,7 +1566,7 @@
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>308755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -2150,7 +2150,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>308755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -7076,7 +7076,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>298005</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -8055,7 +8055,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>407755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -8114,7 +8114,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3216510</price>
-      <credit_discount>279510</credit_discount>
+      <credit_discount>277510</credit_discount>
       <tradein_discount>407755</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -9544,7 +9544,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A1SA582263</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -9660,7 +9660,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04A5SA580715</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -9713,7 +9713,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04A7SA586466</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -11388,7 +11388,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A1SA586880</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -11598,7 +11598,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04AXSA586389</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -11648,7 +11648,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04AXSA586621</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -11698,7 +11698,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04A1SA583496</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -11748,7 +11748,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04A2SA586729</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -11848,7 +11848,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04A7SA583454</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12048,7 +12048,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A6SA578564</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12148,7 +12148,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A1SA578567</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12348,7 +12348,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A0SA578544</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12398,7 +12398,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A0SA578558</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12498,7 +12498,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A9SA578526</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12598,7 +12598,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A1SA576351</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12648,7 +12648,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A3SA576352</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12848,7 +12848,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A1SA577340</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -13224,7 +13224,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A8SA577335</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -13390,7 +13390,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A7SA571848</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -14219,7 +14219,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWFGEA87RM611390</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -18923,7 +18923,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEF04A4RA802180</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -19159,7 +19159,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWEF4A5XRK657855</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -19517,7 +19517,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWFF7A61RJ653536</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -19574,7 +19574,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWFF7A69RJ657544</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -19753,7 +19753,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWFF5A52RK647346</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -19809,7 +19809,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWEF4A59RK659158</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -19926,7 +19926,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A7RA803102</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20157,7 +20157,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A5RA800618</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20277,7 +20277,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEF04A3RA800890</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20335,7 +20335,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEF04A5RA800891</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20450,7 +20450,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A3RA800763</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20566,7 +20566,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05AXRA800713</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20624,7 +20624,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A1RA803208</vin>
-      <availability>В пути</availability>
+      <availability>В наличии</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20680,7 +20680,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A3RA803209</vin>
-      <availability>В пути</availability>
+      <availability>В наличии</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -20867,6 +20867,997 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>163510</max_discount><priceWithDiscount>3449000</priceWithDiscount><sale_price>3449000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-premium-оранжевый-2024/</url></car>
+    <max_discount>163510</max_discount><priceWithDiscount>3449000</priceWithDiscount><sale_price>3449000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-premium-оранжевый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485844</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A3RA801697</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H9, II</folder_id>
+      <modification_id>2.0 AT (218 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3485845</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>218 л.с.</engine_power>
+      <gearbox>Автоматическая</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>4553010</price>
+      <credit_discount>100000</credit_discount>
+      <tradein_discount>100000</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LGWFF7A63RJ659595</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892677/d22451bd17dfb1daee70a10e391b5755.png</image>
+        <image>https://tradeins.space/uploads/photo/29892679/c999e6bdf98b850615db9e7137bdd6e7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892680/e0abe175ba8d35a0867cf7f3a9db11a1.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892678/20b25717a7d9f41656b13d2866df3418.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>654010</max_discount><priceWithDiscount>3899000</priceWithDiscount><sale_price>3899000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-лс-4wd-elite-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H9, II</folder_id>
+      <modification_id>2.4d AT (184 л.с.) 4WD</modification_id>
+      <complectation_name>Premium</complectation_name>
+      <unique_id>3485846</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2400</engine_volume>
+      <engine_type>Дизель</engine_type>
+      <engine_power>184 л.с.</engine_power>
+      <gearbox>Автоматическая</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>5048010</price>
+      <credit_discount>100000</credit_discount>
+      <tradein_discount>100000</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LGWFFFA62RJ645987</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892677/d22451bd17dfb1daee70a10e391b5755.png</image>
+        <image>https://tradeins.space/uploads/photo/29892679/c999e6bdf98b850615db9e7137bdd6e7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892680/e0abe175ba8d35a0867cf7f3a9db11a1.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892678/20b25717a7d9f41656b13d2866df3418.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>679010</max_discount><priceWithDiscount>4369000</priceWithDiscount><sale_price>4369000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-24d-at-184-лс-4wd-premium-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485847</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A1RA801696</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485848</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A1RA802086</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Premium</complectation_name>
+      <unique_id>3485849</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2672010</price>
+      <credit_discount>312005</credit_discount>
+      <tradein_discount>312005</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A2SA806704</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>624010</max_discount><priceWithDiscount>2048000</priceWithDiscount><sale_price>2048000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-premium-черный-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485850</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A3RA802087</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485851</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A5RA801698</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485852</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A5RA802088</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485853</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A6RA801693</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485854</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A7RA802089</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485855</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04A8RA801694</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (143 л.с.)</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485856</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>143 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2919510</price>
+      <credit_discount>410505</credit_discount>
+      <tradein_discount>410505</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGEF04AXRA801695</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>821010</max_discount><priceWithDiscount>2098500</priceWithDiscount><sale_price>2098500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-143-лс-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485857</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>177 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3167010</price>
+      <credit_discount>409255</credit_discount>
+      <tradein_discount>409255</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF05A0RA802048</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>818510</max_discount><priceWithDiscount>2348500</priceWithDiscount><sale_price>2348500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485858</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>177 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3167010</price>
+      <credit_discount>409255</credit_discount>
+      <tradein_discount>409255</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF05A0RA803054</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>818510</max_discount><priceWithDiscount>2348500</priceWithDiscount><sale_price>2348500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485859</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>177 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3167010</price>
+      <credit_discount>409255</credit_discount>
+      <tradein_discount>409255</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF05A1RA802690</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892650/91f83c8b3cd6d9889fcd3150c13ad458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892652/8cc9ea3c7793b42498e5e21b4f3add1a.png</image>
+        <image>https://tradeins.space/uploads/photo/29892653/1c5f8e969cdc33b0852a9c29709ce235.png</image>
+        <image>https://tradeins.space/uploads/photo/29892651/be1c242f3a4f227bf18574c8d2e2a182.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>818510</max_discount><priceWithDiscount>2348500</priceWithDiscount><sale_price>2348500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H7, I</folder_id>
+      <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
+      <complectation_name>Tech Plus</complectation_name>
+      <unique_id>3485860</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>192 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Серый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>3761010</price>
+      <credit_discount>162010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF06A4SA700594</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34680961/12d37dc9848c284c1ddd83084cc49060.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>162010</max_discount><priceWithDiscount>3599000</priceWithDiscount><sale_price>3599000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-tech-plus-серый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H7, I</folder_id>
+      <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
+      <complectation_name>Tech Plus</complectation_name>
+      <unique_id>3485861</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>192 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>3761010</price>
+      <credit_discount>162010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF06A5SA700751</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34680959/2ae2ea8c30dee76818b95bf5673b8b9a.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>162010</max_discount><priceWithDiscount>3599000</priceWithDiscount><sale_price>3599000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-tech-plus-белый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3</folder_id>
+      <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3485862</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>177 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3167010</price>
+      <credit_discount>409255</credit_discount>
+      <tradein_discount>409255</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF05A4RA801985</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892646/f9e8b699b197b199a893c0950ebaf296.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29892649/45c4d8864ed37321750ab7346e5eca39.png</image>
+        <image>https://tradeins.space/uploads/photo/29892648/5d4977776e21d26078f2a46a34b6b593.png</image>
+        <image>https://tradeins.space/uploads/photo/29892647/2e85ab74ac946e205887846dce715bc7.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>818510</max_discount><priceWithDiscount>2348500</priceWithDiscount><sale_price>2348500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>H7, I</folder_id>
+      <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3485863</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>192 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>3464010</price>
+      <credit_discount>200000</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF06A7SA700847</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 214-311</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, ул. Урицкого, 45</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34680958/136307e389282c56d9108d9a8cb3cc4a.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>200000</max_discount><priceWithDiscount>3264010</priceWithDiscount><sale_price>3264010</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-elite-черный-2025/</url></car>
 </cars>
 </data>
