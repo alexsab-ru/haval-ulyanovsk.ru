@@ -55,58 +55,6 @@
     <max_discount>488510</max_discount><priceWithDiscount>1639000</priceWithDiscount><sale_price>1639000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-mt-143-лс-comfort-белый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Tech+</complectation_name>
-      <unique_id>3142596</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2919510</price>
-      <credit_discount>282510</credit_discount>
-      <tradein_discount>276255</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGFE04A9RA522083</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/27659488/99d3a67b2422bc89553e1c01ac8366df.jpg</image>
-        <image>https://tradeins.space/uploads/photo/27659489/11b60e4d4409f1e2ca4ba84d159d41f6.jpg</image>
-        <image>https://tradeins.space/uploads/photo/27659490/1b88b910ec1163cec1ebd7f2b40bf39c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/27659491/b8066fd3aed3da859256a73becaf4bc7.jpg</image>
-        <image>https://tradeins.space/uploads/photo/27659492/e9d5021987fa23b30d04b1c04df078a3.jpg</image>
-        <image>https://tradeins.space/uploads/photo/27659493/1f4572c7dcc0c3376e711b8d45813528.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>580510</max_discount><priceWithDiscount>2339000</priceWithDiscount><sale_price>2339000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-tech-plus-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
       <modification_id>1.5 MT (143 л.с.)</modification_id>
       <complectation_name>Comfort</complectation_name>
       <unique_id>3145260</unique_id>
@@ -1059,65 +1007,6 @@
       </multiposting>
     <max_discount>585510</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-143-лс-elite-серый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (143 л.с.)</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3362462</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>143 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2424510</price>
-      <credit_discount>287510</credit_discount>
-      <tradein_discount>268255</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04A0RA564847</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34435838/3b8f06c41c22e1f6d428783a17f0af75.png</image>
-        <image>https://tradeins.space/uploads/photo/32127245/94fe14e50e2e7bbf865ad10fe44331fe.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127246/a129ab99bb48782f070acc35f31fe295.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127247/6e652641c93008c3dc9b99eb99e13d55.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127248/dff2eeee63b4403f6f09797e1e8e51f3.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127249/56278ef6c9a888109301fd22b44c793b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127250/1ed7e1bfce16a83489e06681ac34d590.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127251/5655e4a483e2ff56d1c70b821f2dda58.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127252/033a0685fa6f09c868ce84150e7b5383.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127253/03aa17deb397f392ede0af4a03fdaca5.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127254/c1038fd81548c64f6c740824178db7fb.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127255/40c99134d3fdd4be77cc40d407deb27f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/32127256/0969dcc74dba1526f9d3af8a342fad46.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>585510</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-143-лс-elite-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
       <folder_id>F7, II</folder_id>
       <modification_id>1.5 AMT (150 л.с.)</modification_id>
       <complectation_name>Elite</complectation_name>
@@ -1648,179 +1537,6 @@
         <classifieds>autoru</classifieds>
       </multiposting>
     <max_discount>488210</max_discount><priceWithDiscount>1669000</priceWithDiscount><sale_price>1669000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-mt-143-лс-family-белый-2024/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (143 л.с.)</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3386908</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>143 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2424510</price>
-      <credit_discount>287510</credit_discount>
-      <tradein_discount>238505</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04A8RA568578</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33039316/54aaf00e57905eeca36b354469393712.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039317/9fa7340b891bedd3973af99b41866f54.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039318/b43d2375a016c1ce322ee0aa69f7f0c4.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039319/d433d23145124bf3a850a7b70007a834.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039320/7389d412a0cf24378c28d72e4248f9c3.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039321/ec9e7e64a14feb7625a8fcd123bf7307.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039322/71d50ab8105534fbc864f79a3839d273.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039323/5f5ab5c7b29707b5342cddedafceaa43.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33039324/874c15c53e223b5c97cdbfc06d25278f.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>585510</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-143-лс-elite-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (143 л.с.)</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3386909</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>143 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2424510</price>
-      <credit_discount>287510</credit_discount>
-      <tradein_discount>238505</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04A7RA568586</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33038928/2617d7e8ac2730dfe29d89a2ced28e20.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038929/96d7985ce39e2fa68d7a97515c7dee21.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038930/fa863c7503b5390bf62b9a8e977c31dd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038931/c539368caebae18cf99f715d3f7f75a7.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038932/a05b2c17c420c978e201392b735bae1f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038933/b2473e78c19d7f2b5438a6a25f1b5ee8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038934/864aba52016d65529775d65bdd5ca530.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038935/2d3e5c816d442d409c71695e98ab376b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038936/656ad90531d54ad837a28dd3e65f0708.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>585510</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-143-лс-elite-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (143 л.с.)</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3386910</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>143 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2424510</price>
-      <credit_discount>287510</credit_discount>
-      <tradein_discount>238505</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04A1RA568583</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34436098/f3ff61f11bab4fa32bb3ed1c2d55f0c9.png</image>
-        <image>https://tradeins.space/uploads/photo/33038799/e068ce7748a39abf930e2aeb69eef034.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038800/75ef60c998cc38de932262ff4a3f852e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038801/f630d9b5d399d438f73f9a60e3b26d80.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038802/c686ef26d5895386d23da60df44813a2.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038803/10a750d6c01f00b4711a89796605de10.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038804/e74f1a8c6ece9a33b106d90ff4cf96fd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038805/9cedaf147a8a3aa58801494d3153d64f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038806/5f3525571845bba1345bde363f4a1986.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038807/c439c66ce1f7a86d90ba9ce103893c95.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038808/b27775fcc3c7f79106dc31e1d9d45331.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038809/0584185e27747f3f7eceb21d27796f5d.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038810/3533dda2d9ca78b49c0ab21de4db011e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038811/3e9eb65ffc7dbd9485bcce62f182a321.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038812/ea3ea312a11457349df4a7a464293f77.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038813/4266ffdcb0dd62d83d2b2b2cbf3b0617.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33038814/4b2fe27271166e87d38de7f4aeb43a4d.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>585510</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-143-лс-elite-белый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>F7, II</folder_id>
       <modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2523,122 +2239,6 @@
       </multiposting>
     <max_discount>488510</max_discount><priceWithDiscount>1639000</priceWithDiscount><sale_price>1639000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-mt-143-лс-comfort-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 MT (143 л.с.)</modification_id>
-      <complectation_name>Comfort</complectation_name>
-      <unique_id>3386931</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>143 л.с.</engine_power>
-      <gearbox>Механическая</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2127510</price>
-      <credit_discount>240510</credit_discount>
-      <tradein_discount>190005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04AXSA571648</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33408094/72c3350521b8169b0ed138f94052d48a.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408095/8853ad46ef3a71d5b70fbd2fe0e41fb9.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408096/c958e226334d4980841d80228cb91c13.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408097/68fc23dd8b4bb226a30876463c3588f9.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408098/68955f2af93391ac2026b65320054f23.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408099/8165350bbf7021367943d8d07668f04d.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408100/d1013fad3b90a7a5b2a3947b5f6fbf3e.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408101/3814fb7e12fcbba8b4adb045223fe497.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408102/94b1b6f821dae5ba113377e9c5798616.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33408103/4e14770b22473db9fbff43e901c0eec5.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>488510</max_discount><priceWithDiscount>1639000</priceWithDiscount><sale_price>1639000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-mt-143-лс-comfort-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Premium</complectation_name>
-      <unique_id>3386933</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2771010</price>
-      <credit_discount>284010</credit_discount>
-      <tradein_discount>276555</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGFE04A6RA569362</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33067001/871c8283edc1462ce6b6699753200278.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067002/5c7a17597cdb25dee43fbaf968ff39fd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067003/e9ac977cc54a4e3e8237deccfe2536d5.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067004/7664d4fc07322af2aadbd131137186e8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067005/87843a70a0f9521d3e6f6bde6912fff7.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067006/4ffc557a9ff4b71e6418e11e0a94af11.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067007/6aea691676b3f13d42138a7e6fb89880.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067008/3745ef23e6295796ada0984a474b395d.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067009/40a857d0c144225576166e977cdbc2f7.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067010/0204147db4788c93c823e466bac8fc3a.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067011/64ecae66d51910552f5bf488e4fcb72c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067012/3034822d8e8ee8c3c68d1e416640aedd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067013/e2387e62e594d35a65f1216ed64ec17b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33067014/aabda874786244934b31fe76adfc9203.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>582010</max_discount><priceWithDiscount>2189000</priceWithDiscount><sale_price>2189000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-premium-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
       <folder_id>F7, II</folder_id>
       <modification_id>1.5 AMT (150 л.с.)</modification_id>
       <complectation_name>Premium</complectation_name>
@@ -2697,62 +2297,6 @@
         <classifieds>autoru</classifieds>
       </multiposting>
     <max_discount>609510</max_discount><priceWithDiscount>2409000</priceWithDiscount><sale_price>2409000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-лс-premium-серый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3386936</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2573010</price>
-      <credit_discount>286010</credit_discount>
-      <tradein_discount>278005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGFE04A8SA573094</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33053434/5c525b602cd94dca4534b8d7139dfc0e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053435/69fdcb6c7bfee2eb7e13b31f910b3168.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053436/6703868047b91f103485500785597403.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053437/3fe17d1efff09bb55d1cd24f12d40789.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053438/b27980714056b7fde2f362df44c8d45c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053439/f757c658af3e08fd5b8390be27d6b5e5.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053440/7dbae36ad4ffd872af3a7144a23e639a.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053441/bdfc46ab59e9d207fdc319b0657212ee.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053442/1c77455d84504c14aad201d1314d00d2.jpg</image>
-        <image>https://tradeins.space/uploads/photo/33053443/b516dc6862d08e7ae1fbb60c9ab5039a.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-белый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>Jolion, I Рестайлинг</folder_id>
       <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
@@ -4055,62 +3599,6 @@
       </multiposting>
     <max_discount>487010</max_discount><priceWithDiscount>1789000</priceWithDiscount><sale_price>1789000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-лс-family-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <modification_id>1.5 AMT (150 л.с.)</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3408340</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2820510</price>
-      <credit_discount>250000</credit_discount>
-      <tradein_discount>301005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEF04A7SA379942</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33431874/9f1d4fec0e8523208d14b8d1684e4dc7.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431875/b907cd656d06fddfbb52fa72d4177b73.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431876/a46bde51b6da6cbe6891d373d1434eeb.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431877/a71e8bf8d4e51dbb3a1552fe7839cc62.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431878/759a1100025b9abc15e929a7975c9cbd.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431879/555fb761da48f0484f48e82f02732713.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431880/923688793f4217211c504dc6752eda4c.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431881/3922e7dbf0931ba7c60f50ab4d260c07.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431882/4022d05517306fcb89983d554e68400f.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33431883/681da7678200b93a228c48e2181755bb.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>611510</max_discount><priceWithDiscount>2209000</priceWithDiscount><sale_price>2209000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-лс-elite-белый-2024/</url></car><car>
-      <mark_id>Haval</mark_id>
       <folder_id>Dargo</folder_id>
       <modification_id>X 2.0 AMT (192 л.с.) 4WD</modification_id>
       <complectation_name>X Premium</complectation_name>
@@ -4280,116 +3768,6 @@
         <classifieds>autoru</classifieds>
       </multiposting>
     <max_discount>580510</max_discount><priceWithDiscount>2339000</priceWithDiscount><sale_price>2339000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-tech-plus-черный-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <modification_id>1.5 AMT (150 л.с.)</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3417697</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Черный</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2820510</price>
-      <credit_discount>250000</credit_discount>
-      <tradein_discount>301005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEF04A3SA380652</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33704032/c3084ecf2de70524a7b91c5c10458fe5.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704033/ced8ecc41287fc143e07c2fdac4cd1fc.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704034/c20c557f1b5023444dd65c48d8435334.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704035/896751b43461522c67880a485eff59df.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704036/5db7a2d8470c21a4245e9678a72e6876.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704037/34e4f918736903b887c2b967881ae505.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704038/90f6ec0fca57158337534fc9feb71000.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704039/720b71928863397721919d66bf1fbba6.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704040/32fadbef3aa779a1a544cbcab3c3b941.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33704041/f3e67480efeb6609379867e8ce920fd5.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>611510</max_discount><priceWithDiscount>2209000</priceWithDiscount><sale_price>2209000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-лс-elite-черный-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
-      <complectation_name>Tech Plus</complectation_name>
-      <unique_id>3417700</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>2000</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>192 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Черный</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>3612510</price>
-      <credit_discount>275510</credit_discount>
-      <tradein_discount>282005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGFF06A7SA381028</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33703969/ce7acbda8af8ec166d01bc4314172265.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703970/92e531f9891036df046fea760dcf08ad.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703971/0807f0f03365917d615612cc78693866.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703972/78d913890b53a26272993826e0d8508a.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703973/4b926457c02fc61fceb463901b09c95d.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703974/0665473bbf87dcfb250c5cdefe6cd853.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703975/201dd76111bc113972476868d82934b6.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33703976/38cd939460b9a31b497a80bf2896f125.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>573510</max_discount><priceWithDiscount>3039000</priceWithDiscount><sale_price>3039000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-192-лс-4wd-tech-plus-черный-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>Jolion, I Рестайлинг</folder_id>
       <modification_id>1.5 MT (143 л.с.)</modification_id>
@@ -4569,62 +3947,6 @@
         <classifieds>autoru</classifieds>
       </multiposting>
     <max_discount>487010</max_discount><priceWithDiscount>1789000</priceWithDiscount><sale_price>1789000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-лс-family-черный-2024/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
-      <complectation_name>Tech Plus</complectation_name>
-      <unique_id>3417704</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>2000</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>192 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Серый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>3612510</price>
-      <credit_discount>275510</credit_discount>
-      <tradein_discount>282500</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGFF06A2SA381311</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/33670602/4df27d78031db0034e8e20954c00b101.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670603/35e1684350ea08c1abcbfe2e160b67c6.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670604/bfa67526a459cad04f02bdda741327cc.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670605/029a584b4978954bd887e8fd5b517898.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670606/607bfdfd801a63beba86d349a6119b66.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670607/96fe7bb0a2dfbd7c423860434bc3d0d3.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670608/d53408397ae965ad4baef8410d3f3413.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670609/2032930f0f4c0b630002f66fa740fd40.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670610/6a1403e5ada147fb550c443de66564bf.JPG</image>
-        <image>https://tradeins.space/uploads/photo/33670611/98ff332538f395c9c1c2d0a911f99d34.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>573510</max_discount><priceWithDiscount>3039000</priceWithDiscount><sale_price>3039000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-192-лс-4wd-tech-plus-серый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>F7, II</folder_id>
       <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
@@ -6717,186 +6039,6 @@
       </multiposting>
     <max_discount>609510</max_discount><priceWithDiscount>2409000</priceWithDiscount><sale_price>2409000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-лс-premium-серый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (143 л.с.)</modification_id>
-      <complectation_name>Premium</complectation_name>
-      <unique_id>3432639</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>143 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Нет</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2523510</price>
-      <credit_discount>236510</credit_discount>
-      <tradein_discount>227755</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04AXSA576235</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34070865/e2f4e374249d9a3751b09842343b6b3f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070866/52dae70b3407a45b1b4cf8cdff198cdf.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070867/220f436777aa2086ec0c859a1f442e07.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070868/d21a35f9b3e182331ff188fb2dc0e385.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070869/01139b2d122e35cc9051b820961539b1.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070870/465f479c43b3858a96e9e40683772d35.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070871/6b8a8733b69379eaec184e23d282becb.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070872/8aa8e0d013fbd4c09543d1ddff2b96f2.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070873/fc5379dc8f6882686484f8af7f40a09b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070874/af626b466050d0f74b8203c4819ff41e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070875/f85e2db012546f56038e8949c1778f79.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070876/fdaa092a1784db3a79bc67a2e124e254.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070877/0b83b2ec835ba662dde1121a9780efbd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070878/5cea2309edde548dd4e5d90e46c01444.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070879/99aa7ff8727236aeee45addc3658b3bc.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>484510</max_discount><priceWithDiscount>2039000</priceWithDiscount><sale_price>2039000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-143-лс-premium-белый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Premium</complectation_name>
-      <unique_id>3432640</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Черный</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2771010</price>
-      <credit_discount>284010</credit_discount>
-      <tradein_discount>277005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGFE04A0SA575227</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34070840/5cf919edd87a8c5d1d9c603a21fa6f2a.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070841/756d851e8bc9db3e2589f63a05a69fff.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070842/56aefd494054b78e6ba3e3790a176f7e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070843/c181b3aca45ccfbace0614713acab78b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070844/69240abcbc0ea5712bbb1f3303f22b5a.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070845/19f284279d552805a09c373030417e74.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070846/db4e5b7673b8c3c16104131c70aa3bfb.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070847/2ef43d556453c676d6123d5bb1230ec9.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070848/63f6924f842517a19d42150c3280a349.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34070849/331a47b711f6c8a03d431321680ca64a.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>582010</max_discount><priceWithDiscount>2189000</priceWithDiscount><sale_price>2189000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-premium-черный-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Dargo</folder_id>
-      <modification_id>X 2.0 AMT (192 л.с.) 4WD</modification_id>
-      <complectation_name>X Premium</complectation_name>
-      <unique_id>3447005</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>2000</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>192 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate>X</nameplate>
-      <color>Черный</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>3513510</price>
-      <credit_discount>226510</credit_discount>
-      <tradein_discount>357005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LGWFF6A53RH959064</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34382534/32ef6240c48d9fdcff10d6585cd946ca.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382535/07ba4811a500ce867793daf3db8ef95f.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382536/b275b61db8b09dbebf9050420c96030e.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382537/8b867f922423b54f7ed555006e2393ae.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382538/85806cbc8cdbfd941ec9e0427b374aee.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382539/a8036d6daef33a41a5cdbf3868962235.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382540/8c3bb93777d9ef66fa2a3084f2b8e3e8.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382541/d1543ac43e85c6c463acfd27b272fbfa.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382542/109fcae3ac931bfc6e6138f577f6cc7c.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382543/211caad4b648beab0a38f4839190c2ba.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382544/752c547429d4243939634d805db960b3.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382545/2b6a500b38f89cdeb8e9d85aa960d3d5.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382546/1aeee63b5b463d14a177e2e666bc2d2e.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382547/1a0fd44a6157bdb175409c12ea352257.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382548/3232579c442158166a040d4029308e72.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382549/3c14a950872f037553da69e1c1bad73f.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34382550/f5552a8063e337b1fff59abb77898a93.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>474510</max_discount><priceWithDiscount>3039000</priceWithDiscount><sale_price>3039000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-dargo-x-20-amt-192-лс-4wd-x-premium-черный-2024/</url></car><car>
-      <mark_id>Haval</mark_id>
       <folder_id>M6, II</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
       <complectation_name>Family</complectation_name>
@@ -7057,124 +6199,6 @@
         <classifieds>autoru</classifieds>
       </multiposting>
     <max_discount>487010</max_discount><priceWithDiscount>1789000</priceWithDiscount><sale_price>1789000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-лс-family-белый-2024/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3453642</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Серый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2573010</price>
-      <credit_discount>286010</credit_discount>
-      <tradein_discount>278005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04A4SA582659</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34649171/ea6858893db98ad49647f87f374ac1e2.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649172/f3347ba94390f47b2fcc2728fc8c9df6.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649173/241890b9b62793e935e7df4c8380159e.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649174/598b90225023fde428c04c364c7eab91.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649175/46e2104ad8ff7cc06ed458d8f29e9961.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649176/ef68054a5e454f9acee2b550200e55a1.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649177/99a7f085023a763afb153b57342148f0.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649178/0e240e4df5e5b7c881610a08e5da43c1.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649179/a6278e0a5ea929610a9af911c0127143.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649180/7e5d02eedaa29ce7b9513736651fbb03.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649181/aa32e8b747b7ec739761fbbb7f545457.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649182/941c63393152010e11bdbd4b1fe1c431.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649183/dce29660d03f6058703d8986835c9d14.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649184/ded1351936e1f0cfbb840bcb4ac9edf8.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-серый-2025/</url></car><car>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг</folder_id>
-      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
-      <complectation_name>Elite</complectation_name>
-      <unique_id>3453643</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1500</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Полный</drive>
-      <nameplate />
-      <color>Серый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2025</year>
-      <registry_year>2025</registry_year>
-      <price>2573010</price>
-      <credit_discount>286010</credit_discount>
-      <tradein_discount>278005</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>XZGEE04A2SA582689</vin>
-      <availability>В пути</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (8422) 221-231</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34649116/5629f7aff40e5a5c5f54b2ac44dfd946.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649117/030d0b2c8e9651e68f2951aa4feccc2e.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649118/1b1ee7958daad2b280dc2b1d49ef5dd5.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649119/1e9ed6cf9770e4d9d2c4acfad527db70.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649120/9ca588e298843edf2658751f9ddaa95b.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649121/c92a005ce416030898f338f8895a0d73.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649122/b3e1cfc9831af43f5b0ece0a5bfb914b.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649123/b14065dc79f9142175cb1686eadd932d.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649124/8bbabcd4118c3c1f35c118aca21e5de2.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649125/159bc83b83c455e14382fbf9a6773fdd.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649126/a618e3bd17a826e4255d57ae9b1f4540.JPG</image>
-        <image>https://tradeins.space/uploads/photo/34649127/ce326b5ec6a5da77d328adaf25112695.JPG</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-серый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>Jolion, I Рестайлинг</folder_id>
       <modification_id>1.5 MT (143 л.с.)</modification_id>
@@ -9918,7 +8942,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWEF4A50RF740798</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -10681,7 +9705,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWEF4A58RF739172</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -10953,7 +9977,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A3SA586413</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12149,7 +11173,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A5SA576353</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12203,7 +11227,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A7SA576354</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12418,7 +11442,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A3SA576349</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12528,7 +11552,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A5SA571850</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12805,7 +11829,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A3SA571846</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -12922,7 +11946,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEE04A5SA571847</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -13745,7 +12769,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04A2SA588349</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -14590,7 +13614,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFE04AXSA590186</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -17601,7 +16625,457 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>573510</max_discount><priceWithDiscount>3039000</priceWithDiscount><sale_price>3039000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-192-лс-4wd-tech-plus-черный-2025/</url></car>
+    <max_discount>573510</max_discount><priceWithDiscount>3039000</priceWithDiscount><sale_price>3039000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-192-лс-4wd-tech-plus-черный-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Tech+</complectation_name>
+      <unique_id>3508126</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2919510</price>
+      <credit_discount>282510</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A7SA584619</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892018/448d005a19bdae78f82315826c635316.png</image>
+        <image>https://tradeins.space/uploads/photo/29892020/067d004577ce7e266502dd5f0b14244b.png</image>
+        <image>https://tradeins.space/uploads/photo/29892021/9ec5a437c36eb769a54ad41b404d257f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892019/c7905f201526b4f8e502dba38d35b22b.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>580510</max_discount><priceWithDiscount>2339000</priceWithDiscount><sale_price>2339000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-tech-plus-белый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Premium</complectation_name>
+      <unique_id>3508127</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2622510</price>
+      <credit_discount>236510</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04AXSA583268</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892018/448d005a19bdae78f82315826c635316.png</image>
+        <image>https://tradeins.space/uploads/photo/29892020/067d004577ce7e266502dd5f0b14244b.png</image>
+        <image>https://tradeins.space/uploads/photo/29892021/9ec5a437c36eb769a54ad41b404d257f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892019/c7905f201526b4f8e502dba38d35b22b.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>486510</max_discount><priceWithDiscount>2136000</priceWithDiscount><sale_price>2136000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-premium-белый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3508128</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2573010</price>
+      <credit_discount>286010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A7SA590372</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892018/448d005a19bdae78f82315826c635316.png</image>
+        <image>https://tradeins.space/uploads/photo/29892020/067d004577ce7e266502dd5f0b14244b.png</image>
+        <image>https://tradeins.space/uploads/photo/29892021/9ec5a437c36eb769a54ad41b404d257f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892019/c7905f201526b4f8e502dba38d35b22b.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-белый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3508129</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2573010</price>
+      <credit_discount>286010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A2SA590375</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892018/448d005a19bdae78f82315826c635316.png</image>
+        <image>https://tradeins.space/uploads/photo/29892020/067d004577ce7e266502dd5f0b14244b.png</image>
+        <image>https://tradeins.space/uploads/photo/29892021/9ec5a437c36eb769a54ad41b404d257f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892019/c7905f201526b4f8e502dba38d35b22b.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-белый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3508130</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2573010</price>
+      <credit_discount>286010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A0SA590374</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892018/448d005a19bdae78f82315826c635316.png</image>
+        <image>https://tradeins.space/uploads/photo/29892020/067d004577ce7e266502dd5f0b14244b.png</image>
+        <image>https://tradeins.space/uploads/photo/29892021/9ec5a437c36eb769a54ad41b404d257f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892019/c7905f201526b4f8e502dba38d35b22b.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-белый-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3508131</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2573010</price>
+      <credit_discount>286010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A8SA591322</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892014/cea51ab7531458752496d6ce4c4d035f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892016/123213350d4c3e8640f802a48b844903.png</image>
+        <image>https://tradeins.space/uploads/photo/29892017/f6ce98b803bc71386582c747b7393e20.png</image>
+        <image>https://tradeins.space/uploads/photo/29892015/99c80881dfe4b65e7f175a4970842bbb.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-черный-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3508132</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2573010</price>
+      <credit_discount>286010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A6SA591321</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892014/cea51ab7531458752496d6ce4c4d035f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892016/123213350d4c3e8640f802a48b844903.png</image>
+        <image>https://tradeins.space/uploads/photo/29892017/f6ce98b803bc71386582c747b7393e20.png</image>
+        <image>https://tradeins.space/uploads/photo/29892015/99c80881dfe4b65e7f175a4970842bbb.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-черный-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>Jolion, I Рестайлинг</folder_id>
+      <modification_id>1.5 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Elite</complectation_name>
+      <unique_id>3508133</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1500</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>2573010</price>
+      <credit_discount>286010</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFE04A2SA591316</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29892014/cea51ab7531458752496d6ce4c4d035f.png</image>
+        <image>https://tradeins.space/uploads/photo/29892016/123213350d4c3e8640f802a48b844903.png</image>
+        <image>https://tradeins.space/uploads/photo/29892017/f6ce98b803bc71386582c747b7393e20.png</image>
+        <image>https://tradeins.space/uploads/photo/29892015/99c80881dfe4b65e7f175a4970842bbb.png</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>584010</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-рестайлинг-15-amt-150-лс-4wd-elite-черный-2025/</url></car><car>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7, II</folder_id>
+      <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
+      <complectation_name>Premium</complectation_name>
+      <unique_id>3508134</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>192 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Нет</metallic>
+      <extras />
+      <description />
+      <year>2025</year>
+      <registry_year>2025</registry_year>
+      <price>3414510</price>
+      <credit_discount>307510</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>XZGFF06A0SA386815</vin>
+      <availability>В пути</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (8422) 221-231</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/29612168/ffc86a4c2ef9f1e59fb22c84974f720f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29612187/5661c9fc2711be7e25f91d176381160d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29612192/062ff3130a0ab9041b77af1ae1b5e723.jpg</image>
+        <image>https://tradeins.space/uploads/photo/29612182/62e8ae7bcfb50ddab1077dccf0fbb929.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>605510</max_discount><priceWithDiscount>2809000</priceWithDiscount><sale_price>2809000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-192-лс-4wd-premium-белый-2025/</url></car>
 <car>
       <mark_id>Haval</mark_id>
       <folder_id>H5, II</folder_id>
@@ -17772,7 +17246,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>909510</max_discount><priceWithDiscount>3099000</priceWithDiscount><sale_price>3099000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h5-ii-20d-at-150-лс-4wd-elite-черный-2024/</url></car><car>
+    <max_discount>1160510</max_discount><priceWithDiscount>2848000</priceWithDiscount><sale_price>2848000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h5-ii-20d-at-150-лс-4wd-elite-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H5, II</folder_id>
       <modification_id>2.0d AT (150 л.с.) 4WD</modification_id>
@@ -17800,7 +17274,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWFGEA87RM610563</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -17832,7 +17306,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>909510</max_discount><priceWithDiscount>3099000</priceWithDiscount><sale_price>3099000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h5-ii-20d-at-150-лс-4wd-elite-серый-2024/</url></car><car>
+    <max_discount>1160510</max_discount><priceWithDiscount>2848000</priceWithDiscount><sale_price>2848000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h5-ii-20d-at-150-лс-4wd-elite-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H9, II</folder_id>
       <modification_id>2.4d AT (184 л.с.) 4WD</modification_id>
@@ -17891,7 +17365,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>976010</max_discount><priceWithDiscount>4369000</priceWithDiscount><sale_price>4369000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-24d-at-184-лс-4wd-premium-белый-2024/</url></car><car>
+    <max_discount>1071510</max_discount><priceWithDiscount>4273500</priceWithDiscount><sale_price>4273500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-24d-at-184-лс-4wd-premium-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H5, II</folder_id>
       <modification_id>2.0d AT (150 л.с.) 4WD</modification_id>
@@ -18102,7 +17576,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGEF04A6RA801144</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -18364,7 +17838,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H9, II</folder_id>
       <modification_id>2.0 AT (218 л.с.) 4WD</modification_id>
@@ -18478,7 +17952,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -18827,7 +18301,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -18940,7 +18414,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -18996,7 +18470,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -19286,7 +18760,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -19458,7 +18932,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -20602,7 +20076,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -20663,7 +20137,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -20720,7 +20194,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H9, II</folder_id>
       <modification_id>2.0 AT (218 л.с.) 4WD</modification_id>
@@ -20837,7 +20311,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -21116,7 +20590,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -21172,7 +20646,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -21228,7 +20702,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H9, II</folder_id>
       <modification_id>2.0 AT (218 л.с.) 4WD</modification_id>
@@ -21415,7 +20889,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -21750,7 +21224,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>LGWFFFA64RJ646834</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -21781,7 +21255,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>976010</max_discount><priceWithDiscount>4369000</priceWithDiscount><sale_price>4369000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-24d-at-184-лс-4wd-premium-черный-2024/</url></car><car>
+    <max_discount>1071510</max_discount><priceWithDiscount>4273500</priceWithDiscount><sale_price>4273500</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-24d-at-184-лс-4wd-premium-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -21837,7 +21311,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -22371,7 +21845,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -22429,7 +21903,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-серый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -22489,7 +21963,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -22609,7 +22083,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-голубой-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -22729,7 +22203,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -22787,7 +22261,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-черный-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -23083,7 +22557,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>838010</max_discount><priceWithDiscount>2329000</priceWithDiscount><sale_price>2329000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
+    <max_discount>827010</max_discount><priceWithDiscount>2340000</priceWithDiscount><sale_price>2340000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h3-15-amt-177-лс-4wd-tech-plus-белый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
@@ -23576,7 +23050,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A7RA801883</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -24038,7 +23512,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A3RA803209</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -24088,7 +23562,7 @@
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -24146,8 +23620,8 @@
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>3612510</price>
-      <credit_discount>163510</credit_discount>
-      <tradein_discount>164510</tradein_discount>
+      <credit_discount>264510</credit_discount>
+      <tradein_discount>200000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -24189,7 +23663,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>164510</max_discount><priceWithDiscount>3448000</priceWithDiscount><sale_price>3448000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-premium-оранжевый-2024/</url></car><car>
+    <max_discount>464510</max_discount><priceWithDiscount>3148000</priceWithDiscount><sale_price>3148000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-premium-оранжевый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H7, I</folder_id>
       <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
@@ -24211,8 +23685,8 @@
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>3612510</price>
-      <credit_discount>163510</credit_discount>
-      <tradein_discount>164510</tradein_discount>
+      <credit_discount>264510</credit_discount>
+      <tradein_discount>200000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -24255,7 +23729,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>163510</max_discount><priceWithDiscount>3449000</priceWithDiscount><sale_price>3449000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-premium-оранжевый-2024/</url></car><car>
+    <max_discount>464510</max_discount><priceWithDiscount>3148000</priceWithDiscount><sale_price>3148000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-premium-оранжевый-2024/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -25004,7 +24478,7 @@
       <action>show</action>
       <currency>RUR</currency>
       <vin>XZGFF05A0RA802048</vin>
-      <availability>В наличии</availability>
+      <availability>В пути</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
       <owners_number>Не было владельцев</owners_number>
@@ -25165,7 +24639,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -25223,7 +24697,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -25374,7 +24848,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>501000</max_discount><priceWithDiscount>2963010</priceWithDiscount><sale_price>2963010</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-elite-черный-2025/</url></car><car>
+    <max_discount>466010</max_discount><priceWithDiscount>2998000</priceWithDiscount><sale_price>2998000</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-elite-черный-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H3</folder_id>
       <modification_id>1.5 AMT (143 л.с.)</modification_id>
@@ -25809,7 +25283,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -25872,7 +25346,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -25968,7 +25442,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>501000</max_discount><priceWithDiscount>2963010</priceWithDiscount><sale_price>2963010</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-elite-белый-2025/</url></car><car>
+    <max_discount>466000</max_discount><priceWithDiscount>2998010</priceWithDiscount><sale_price>2998010</sale_price><url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-192-лс-4wd-elite-белый-2025/</url></car><car>
       <mark_id>Haval</mark_id>
       <folder_id>H7, I</folder_id>
       <modification_id>2.0 AMT (192 л.с.) 4WD</modification_id>
@@ -25990,7 +25464,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
@@ -26049,7 +25523,7 @@
       <year>2025</year>
       <registry_year>2025</registry_year>
       <price>3761010</price>
-      <credit_discount>200000</credit_discount>
+      <credit_discount>162010</credit_discount>
       <tradein_discount>301000</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
