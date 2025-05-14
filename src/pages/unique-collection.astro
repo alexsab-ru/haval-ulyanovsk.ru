@@ -2,7 +2,9 @@
 import Layout from '@/layouts/Layout.astro';
 import CarsList from '@/components/Cars/List.astro';
 import { getCollection } from "astro:content";
-import {SITE_NAME, BRAND, LEGAL_CITY_WHERE, TIMER, MARQUEE} from '@/const.js';
+import settings from '@/data/settings.json';
+const { site_name, brand, legal_city_where } = settings;
+import {TIMER, MARQUEE} from '@/const.js';
 const allCars = await getCollection("cars");
 
 const vins = [
@@ -80,7 +82,7 @@ const cars = allCars.filter(car => {
 		
 		{cars.length > 0 && (
 			<>
-				<h2 class="text-xl sm:text-4xl font-normal mb-8 sm:mb-14">{`Автомобили ${BRAND} по специальным сниженным ценам в ${LEGAL_CITY_WHERE}`}</h2>
+				<h2 class="text-xl sm:text-4xl font-normal mb-8 sm:mb-14">{`Автомобили ${brand} по специальным сниженным ценам в ${legal_city_where}`}</h2>
 				<CarsList cars={cars} />
 			</>
 		)}

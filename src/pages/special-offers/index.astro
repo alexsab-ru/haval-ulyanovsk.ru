@@ -2,7 +2,9 @@
 import Layout from '@/layouts/Layout.astro';
 import Banner from '@/components/Banner/Banner.astro';
 import { getCollection } from 'astro:content';
-import { SITE_NAME, TIMER } from '@/const';
+import settings from '@/data/settings.json';
+const { site_name, brand, legal_city_where } = settings;
+import { TIMER } from '@/const';
 import { LAST_DAY, MONTH, MONTH_GENITIVE, YEAR } from '@/js/utils/date';
 import PostItem from '@/components/Post/Item.astro';
 import { sortingAndFilteringPosts } from '@/js/utils/sortingAndFilteringPosts';
@@ -32,7 +34,7 @@ export const breadcrumb = { name: title, href: `/${collection}/` };
 
 <Layout
 	h1={title}
-	title={`${title} | ${SITE_NAME}`}
+	title={`${title} | ${site_name}`}
 	image={image ? image : ''}
 >
 
@@ -63,7 +65,7 @@ export const breadcrumb = { name: title, href: `/${collection}/` };
 				{ posts.map(post => ( <PostItem post={post} /> )) }
 			</div>
 		) : (
-			<p>Скоро здесь появятся спецпредложения {SITE_NAME}.</p>
+			<p>Скоро здесь появятся спецпредложения {site_name}.</p>
 		)
 	}
 		</div>
