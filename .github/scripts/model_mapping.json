@@ -368,7 +368,9 @@
                 "Синий": "light-blue.webp",
                 "Голубой": "light-blue.webp",
                 "White": "white.webp",
-                "Белый": "white.webp"
+                "Белый": "white.webp",
+                "Серебристый": "silver-metallic.webp",
+                "Серебряный": "silver-metallic.webp"
             }
         }
     },
@@ -658,8 +660,7 @@
                 "Зеленый": "c6b.png",
                 "Зелёный": "c6b.png",
                 "Серебряный": "c7b.png",
-                "Светло-серый": "c7b.png",
-                "Бежевый": "beige.webp"
+                "Светло-серый": "c7b.png"
             }
         },
         "T2": {
