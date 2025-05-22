@@ -79,7 +79,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 						document.cookie = updatedCookie
 					},
 					deleteCookie = function(name) {
-						setCookie(name, null, { 'domain':settings.domain,'path':'/','expires': -1 })
+						setCookie(name, null, { 'domain':window.location.hostname,'path':'/','expires': -1 })
 					};
 
 				// if localStorage ot sessionStorage or coockie contains info about location.search of URL then redirect to current URL with with location.search and delete location.search from these places
