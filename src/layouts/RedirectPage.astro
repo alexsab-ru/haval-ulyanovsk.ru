@@ -83,10 +83,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 					};
 
 				// if localStorage ot sessionStorage or coockie contains info about location.search of URL then redirect to current URL with with location.search and delete location.search from these places
-				console.log("saveSearchParam:", saveSearchParam, localStorage.getItem('location_search'), sessionStorage.getItem('location_search'), getCookie('location_search'));
+				// console.log("saveSearchParam:", saveSearchParam, localStorage.getItem('location_search'), sessionStorage.getItem('location_search'), getCookie('location_search'));
 				if (!saveSearchParam && (localStorage.getItem('location_search') || sessionStorage.getItem('location_search') || getCookie('location_search'))) {
 					let location_search = localStorage.getItem('location_search') || sessionStorage.getItem('location_search') || getCookie('location_search');
-					console.log("location_search:",location_search);
+					// console.log("location_search:",location_search);
 					localStorage.removeItem('location_search');
 					sessionStorage.removeItem('location_search');
 					deleteCookie('location_search');
@@ -164,13 +164,13 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 
 					var getMetrikaID = function() {
 						let metrikaID = (typeof ym != 'undefined' && typeof ym.a != 'undefined') ? ym.a[0][0] : findPropertyByPrefix(window, "yaCounter").substr(9);
-						console.log("getMetrikaID:",metrikaID);
+						// console.log("getMetrikaID:",metrikaID);
 
 						if (metrikaID) {
 							setTimeout(function() {
 								scripts_json.metrika.forEach(metrika => {
 									ym(metrika.id, 'reachGoal', goal, function() {
-										console.log('Цель отправлена, выполняем редирект');
+										// console.log('Цель отправлена, выполняем редирект');
 										saveOrRedirect();
 									});
 								});
@@ -202,13 +202,13 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 						for (var property in object) {
 							if (object.hasOwnProperty(property) &&
 								property.toString().startsWith(prefix)) {
-								console.log("findPropertyByPrefix:",property);
+								// console.log("findPropertyByPrefix:",property);
 								return property;
 							}
 						}
 						setTimeout(function() {
 							metrikaID = getMetrikaID();
-							console.log("setTimeout:",metrikaID);
+							// console.log("setTimeout:",metrikaID);
 						}, 100);
 						return "";
 					},
