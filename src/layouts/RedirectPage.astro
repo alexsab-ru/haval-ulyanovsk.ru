@@ -51,8 +51,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 		<script define:vars={{ scripts_json, goal, redirectUrl, saveUrl, messageToTelegram, saveSearchParam }}>
 			(function() {
 				// if localStorage ot sessionStorage or coockie contains info about location.search of URL then redirect to current URL with with location.search and delete location.search from these places
+				console.log("saveSearchParam:", saveSearchParam, localStorage.getItem('location_search'), sessionStorage.getItem('location_search'), document.cookie.includes('location_search='));
 				if (!saveSearchParam && (localStorage.getItem('location_search') || sessionStorage.getItem('location_search') || document.cookie.includes('location_search='))) {
 					let location_search = localStorage.getItem('location_search') || sessionStorage.getItem('location_search') || document.cookie.split('; ').find(row => row.startsWith('location_search=')).split('=')[1];
+					console.log("location_search:",location_search);
 					localStorage.removeItem('location_search');
 					sessionStorage.removeItem('location_search');
 					document.cookie = 'location_search=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
