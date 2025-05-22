@@ -66,7 +66,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 					// save in localStorage and sessionStorage and coockie info about location.search of URL
 					localStorage.setItem('location_search', window.location.search);
 					sessionStorage.setItem('location_search', window.location.search);
-					document.cookie = 'location_search=' + window.location.search;
+					document.cookie = 'location_search=' + window.location.search + '; path=/;';
 				}
 
 				let saveFile = 0;
