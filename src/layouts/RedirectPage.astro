@@ -56,7 +56,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.url);
 					localStorage.removeItem('location_search');
 					sessionStorage.removeItem('location_search');
 					document.cookie = 'location_search=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
-					window.location.href = window.location.origin + window.location.pathname + location_search;
+					setTimeout(function() {
+						window.location.href = window.location.origin + window.location.pathname + location_search;
+					}, 1000);
+					return;
 				} else {
 					// save in localStorage and sessionStorage and coockie info about location.search of URL
 					localStorage.setItem('location_search', window.location.search);
