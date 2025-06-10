@@ -15,7 +15,6 @@
     "getDealerStorage": "sh ./.github/scripts/sh/getDealerStorage.sh",
     "getSortStorage": "sh ./.github/scripts/sh/getSortStorage.sh",
     "cars": "sh ./.github/scripts/sh/process_xml.sh",
-
     "getOne_DEALER_PHOTOS_FOR_CARS_AVITO_URL": "pnpm run cars getone DEALER_PHOTOS_FOR_CARS_AVITO_URL \"dealer_photos_for_cars_avito.xml\"",
     "getOne_AVITO_XML_URL": "pnpm run cars getone AVITO_XML_URL",
     "getOne_AVITO_XML_URL_DATA_CARS_CAR": "pnpm run cars getone AVITO_XML_URL_DATA_CARS_CAR",
@@ -55,12 +54,13 @@
     "preview": "astro preview --open --host",
     "download_json": "bash ./.github/scripts/sh/downloadJSON.sh",
     "download_json_win": "powershell -Command \"$jsonPath = (Get-Content .env | Select-String 'JSON_PATH=').ToString().Split('=')[1]; $folderName = (Get-Content .env | Select-String 'DOMAIN=').ToString().Split('=')[1]; Write-Host \\\"Using JSON_PATH: $jsonPath\\\"; Write-Host \\\"Using folder_name: $folderName\\\"; $dir = 'src/data'; if (-Not (Test-Path $dir)) { New-Item -ItemType Directory -Path $dir }; $files = @('banners.json', 'cars.json', 'models.json', 'salons.json', 'scripts.json', 'seo.json', 'services.json', 'settings.json', 'socials.json', 'special-services.json', 'faq.json', 'federal-models_price.json', 'reviews.json', 'models-sections.yml'); foreach ($file in $files) { $url = \\\"$jsonPath/$folderName/data/$file\\\"; $output = \\\"src/data/$file\\\"; $response = Invoke-WebRequest -Uri $url -Method Head -ErrorAction SilentlyContinue; if ($response.StatusCode -eq 200) { Write-Host \\\"Downloading $url\\\"; Invoke-WebRequest -Uri $url -OutFile $output } else { Write-Host \\\"File $url does not exist on server. Skipping download.\\\" } }\"",
+    "filterModelsByBrand": "node .github/scripts/filterModelsByBrand.js",
     "mergeCarPrices": "node .github/scripts/mergeCarPrices.js",
     "replacePlaceholdersInJson": "node .github/scripts/replacePlaceholdersInJson.js",
     "astro": "astro"
   },
   "dependencies": {
-    "@alexsab-ru/scripts": "^0.12.0",
+    "@alexsab-ru/scripts": "^0.15.1",
     "@astrojs/alpinejs": "^0.4.1",
     "@astrojs/mdx": "^4.0.3",
     "@astrojs/react": "^4.1.2",
@@ -77,7 +77,9 @@
     "astro-robots": "^2.3.1",
     "axios": "^1.7.9",
     "csv-parse": "^5.6.0",
+    "dotenv": "^16.5.0",
     "glightbox": "^3.3.0",
+    "linkinator": "^6.1.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",
