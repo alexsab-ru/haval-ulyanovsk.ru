@@ -44385,9 +44385,9 @@ HAVAL PRO Тон-Авто — всё как надо.</description>
 			<custom>Растаможен</custom>
 			<extras>Android Auto, Bluetooth, CarPlay, USB, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Датчик дождя, Датчик света, Датчик усталости водителя, Декоративная подсветка салона, Диски 18, Докатка, Запуск двигателя с кнопки, Иммобилайзер, Искусственная кожа (Материал салона), Камера 360°, Климат-контроль 2-зонный, Крепление для детского кресла (задний ряд), Круиз-контроль, Мультифункциональное рулевое колесо, Обогрев рулевого колеса, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подушка безопасности водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Регулировка руля по вылету, Регулировка руля по высоте, Рейлинги на крыше, Светодиодные фары, Система доступа без ключа, Система помощи при старте в гору, Система помощи при торможении, Система стабилизации, Усилитель руля, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электрообогрев форсунок стеклоомывателей, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка сиденья водителя, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
-				<image>https://avatars.mds.yandex.net/get-cme-media/16319750/95f7baa4-21cd-4133-b1d8-2385dbcb34e2/max1920.jpg</image>
-				<image>https://avatars.mds.yandex.net/get-cme-media/16205638/c8f22b18-a8f8-4d50-8448-a9214e780b71/max1920.jpg</image>
-				<image>https://avatars.mds.yandex.net/get-cme-media/16422223/44b9532a-599a-4be2-a298-53144f982861/max1920.jpg</image>
+				<image>https://avatars.mds.yandex.net/get-cme-media/14803383/d6e12992-89ec-48ae-bdd7-fd72df8e5bc9/max1920.jpg</image>
+				<image>https://avatars.mds.yandex.net/get-cme-media/16367107/67b93318-0801-4b58-863b-54ec24fe8511/max1920.jpg</image>
+				<image>https://avatars.mds.yandex.net/get-cme-media/16349871/5d892eb0-a09c-40a7-b021-cb235a78b2fa/max1920.jpg</image>
 				<image>https://avatars.mds.yandex.net/get-cme-media/14793829/db5efc63-d5b4-4e6a-8bb2-5c9363896b1d/max1920.jpg</image>
 				<image>https://avatars.mds.yandex.net/get-cme-media/14827889/6e176c0a-17fb-4fa9-85c8-54114e3305cc/max1920.jpg</image>
 				<image>https://avatars.mds.yandex.net/get-cme-media/16484022/c0d7af58-4dd0-4b1c-a07f-c8313044cbde/max1920.jpg</image>
@@ -44460,6 +44460,7 @@ HAVAL PRO Тон-Авто — всё как надо.</description>
 			<tradein_discount>260000</tradein_discount>
 			<complectation_name>Premium</complectation_name>
 			<insurance_discount>0</insurance_discount>
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 			<requires_filling_for_publication_at>2025-08-06T16:06:55+03:00</requires_filling_for_publication_at>
